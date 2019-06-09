@@ -7,6 +7,6 @@ that approximates the electrical characteristics of excitable cells such as neur
 
 ![finalPlot](https://user-images.githubusercontent.com/13776994/57675235-957fc100-7636-11e9-98be-a7415e59da7c.png)
 
-# Neuronal Noise
+# Noisy Input
 Neuronal noise or neural noise refers to the random intrinsic electrical fluctuations within neuronal networks. These fluctuations are not associated with encoding a response to internal or external stimuli and can be from one to two orders of magnitude. Most noise commonly occurs below a voltage-threshold that is needed for an action potential to occur, but sometimes it can be present in the form of an action potential.
 ![spikes_random_noise](https://user-images.githubusercontent.com/13776994/58783163-88327280-85f5-11e9-8c39-f9da61eb33b3.png)
