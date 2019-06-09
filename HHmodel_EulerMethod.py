@@ -19,6 +19,7 @@ g_Na=120 #mScm-2
 g_K=36 #mScm-2
 g_l=0.03 #mScm-2
 
+#define alhpa constant and betha constant for n,m,h channels for opening probability
 def alphaN(v):
     return 0.01*(v+50)/(1-np.exp(-(v+50)/10))
 
@@ -50,7 +51,7 @@ h.append(h0)
 
 #solving ODE using Euler's method:
 for i in range(1,len(t)):
-    m.append(m[i-1] + dt*((alphaM(v[i-1])*(1-m[i-1]))-betaM(v[i-1])*m[i-1]))
+    m.append(m[i-1] + dt*((alphaM(v[i-1])*(1-m[i-1]))-betaM(v[i-1])*m[i-1])) 
     n.append(n[i-1] + dt*((alphaN(v[i-1])*(1-n[i-1]))-betaN(v[i-1])*n[i-1]))
     h.append(h[i-1] + dt*((alphaH(v[i-1])*(1-h[i-1]))-betaH(v[i-1])*h[i-1]))
     gNa = g_Na*h[i-1]*(m[i-1])**3
@@ -59,11 +60,11 @@ for i in range(1,len(t)):
     INa = gNa*(v[i-1]-ENa)
     IK = gK*(v[i-1]-EK)
     Il=gl*(v[i-1]-El)
+    #if you want to use some dynamic current try to uncomment the below line and comment the line aftar that.
     #v.append(v[i-1]+(dt)*((1/Cm)*(I[i-1]-(INa+IK+Il))))
     v.append(v[i-1]+(dt)*((1/Cm)*(I-(INa+IK+Il))))
 
 #Plot the data
-#plt.figure(figsize=(20,30))
 plt.figure(figsize=(15,20))
 plt.legend(loc='upper left')
 plt.title('Hodgkin Huxely Spike Model')
