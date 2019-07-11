@@ -65,7 +65,7 @@ for i in range(1,len(t)):
     v.append(v[i-1]+(dt)*((1/Cm)*(I-(INa+IK+Il))))
 
 #Plot the data
-plt.figure(figsize=(20,15))
+plt.figure(figsize=(15,20))
 plt.legend(loc='upper left')
 plt.title('Hodgkin Huxely Spike Model')
 plt.subplot(3,1,1)
