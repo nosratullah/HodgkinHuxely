@@ -57,7 +57,7 @@ mchannels = x[:,1]
 hchannels = x[:,2]
 nchannels = x[:,3]
 
-plt.figure(figsize=(20,15))
+plt.figure(figsize=(15,20))
 plt.subplot(311)
 plt.plot(voltage,'r-',label='voltage')
 plt.legend(loc='best')
