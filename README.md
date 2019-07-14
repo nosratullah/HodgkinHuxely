@@ -22,8 +22,13 @@ Ephaptic coupling is a form of communication within the nervous system and is di
 
 # refrences
 [1]  Hodgkin AL, Huxley AF (August 1952). "A quantitative description of membrane current and its application to conduction and excitation in nerve". The Journal of Physiology. 117 (4): 500–44. doi:10.1113/jphysiol.1952.sp004764. PMC 1392413. PMID 12991237.
+
 [2]  Jacobson, G. A. (2005). "Subthreshold voltage noise of rat neocortical pyramidal neurones". J Physiol. 564 (Pt 1): 145–160. doi:10.1113/jphysiol.2004.080903. PMC 1456039. PMID 15695244.
+
 [3]  Ko, C. H. (2010). "Emergence of Noise-Induced Oscillations in the Central Circadian Pacemaker". PLOS Biology. 8 (10): e1000513. doi:10.1371/journal.pbio.1000513. PMC 2953532. PMID 20967239.
+
 [4]  Mazzoni, E. O. (2005). "Circadian Pacemaker Neurons Transmit and Modulate Visual Information to Control a Rapid Behavioral Response". Neuron. 45 (2): 293–300. doi:10.1016/j.neuron.2004.12.038. PMID 15664180.
+
 [5]  Aur D., Jog, MS. (2010) Neuroelectrodynamics: Understanding the brain language, IOS Press, doi:10.3233/978-1-60750-473-3-i
+
 [6]  Hartline DK (May 2008). "What is myelin?". Neuron Glia Biol. 4 (2): 153–63. doi:10.1017/S1740925X09990263. PMID 19737435.
