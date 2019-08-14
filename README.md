@@ -19,6 +19,9 @@ Ephaptic coupling is a form of communication within the nervous system and is di
 
 ![coupledNeuron](https://user-images.githubusercontent.com/13776994/61179897-d2aa0480-a621-11e9-83ab-3955643544dd.png)
 
+## Model 2:[7]
+![coupledNeuron](https://user-images.githubusercontent.com/13776994/63001573-2611ab80-be89-11e9-873d-c0e69a54b8fd.png)
+
 
 # refrences
 [1]  Hodgkin AL, Huxley AF (August 1952). "A quantitative description of membrane current and its application to conduction and excitation in nerve". The Journal of Physiology. 117 (4): 500–44. doi:10.1113/jphysiol.1952.sp004764. PMC 1392413. PMID 12991237.
@@ -32,3 +35,4 @@ Ephaptic coupling is a form of communication within the nervous system and is di
 [5]  Aur D., Jog, MS. (2010) Neuroelectrodynamics: Understanding the brain language, IOS Press, doi:10.3233/978-1-60750-473-3-i
 
 [6]  Hartline DK (May 2008). "What is myelin?". Neuron Glia Biol. 4 (2): 153–63. doi:10.1017/S1740925X09990263. PMID 19737435.
+[7]  Flexible resonance in prefrontal networks with strong feedback inhibition, https://doi.org/10.1371/journal.pcbi.1006357
