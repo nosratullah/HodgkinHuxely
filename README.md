@@ -37,4 +37,5 @@ Ephaptic coupling is a form of communication within the nervous system and is di
 [5]  Aur D., Jog, MS. (2010) Neuroelectrodynamics: Understanding the brain language, IOS Press, doi:10.3233/978-1-60750-473-3-i
 
 [6]  Hartline DK (May 2008). "What is myelin?". Neuron Glia Biol. 4 (2): 153–63. doi:10.1017/S1740925X09990263. PMID 19737435.
+
 [7]  Flexible resonance in prefrontal networks with strong feedback inhibition, https://doi.org/10.1371/journal.pcbi.1006357
