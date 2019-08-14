@@ -20,6 +20,8 @@ Ephaptic coupling is a form of communication within the nervous system and is di
 ![coupledNeuron](https://user-images.githubusercontent.com/13776994/61179897-d2aa0480-a621-11e9-83ab-3955643544dd.png)
 
 ## Model 2:[7]
+<img width="889" alt="Screen Shot 2019-08-14 at 11 49 32" src="https://user-images.githubusercontent.com/13776994/63001782-9ddfd600-be89-11e9-97f0-9592ff27a9b5.png">
+
 ![coupledNeuron](https://user-images.githubusercontent.com/13776994/63001573-2611ab80-be89-11e9-873d-c0e69a54b8fd.png)
 
 
