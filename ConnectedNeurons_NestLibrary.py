@@ -1,6 +1,7 @@
 import nest
 import matplotlib.pyplot as plt
 
+#Creating neurons
 neuron1 = nest.Create("iaf_psc_alpha")
 nest.SetStatus(neuron1,{"I_e":0.0})
 neuron2 = nest.Create("iaf_psc_alpha")
@@ -21,6 +22,7 @@ nest.Connect(noise_ex, neuron1, syn_spec=syn_dict_ex)
 nest.Connect(noise_in, neuron1, syn_spec=syn_dict_in)
 
 synapse = {"weight":50.0}
+#connecting neurons
 nest.Connect(neuron1, neuron2, syn_spec = synapse)
 nest.Connect(multimeter1,neuron1)
 nest.Connect(multimeter2,neuron2)
@@ -35,6 +37,7 @@ dmm2 = nest.GetStatus(multimeter2)[0]
 Vms2 = dmm2["events"]["V_m"]
 ts2 = dmm2["events"]["times"]
 
+# Plot the result
 plt.plot(ts1,-Vms1,'r',label='neuron 1')
 plt.plot(ts2,-Vms2,'b',label='neuron 2')
 plt.legend(loc='best')
