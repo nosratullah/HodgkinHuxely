@@ -6,7 +6,7 @@ how action potentials in neurons are initiated and propagated. It is a set of no
 that approximates the electrical characteristics of excitable cells such as neurons and cardiac myocytes.
 Alan Lloyd Hodgkin and Andrew Fielding Huxley described the model in 1952 to explain the ionic mechanisms underlying the initiation and propagation of action potentials in the squid giant axon.[1] They received the 1963 Nobel Prize in Physiology or Medicine for this work.
 
-![Plotly][images/plotly.png]
+![Plotly](images/plotly.png)
 
 ![finalPlot](https://user-images.githubusercontent.com/13776994/57675235-957fc100-7636-11e9-98be-a7415e59da7c.png)
 
