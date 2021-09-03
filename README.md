@@ -1,4 +1,9 @@
 # HodgkinHuxely-Spiking
+$$ \begin{align}
+    g &= \int_a^b f(x)dx \label{eq1}\tag{1} \\
+    a &= b + c \label{eq2}\tag{2}
+\end{align}
+$$
 A Model to simulate neuronal spiking based on Hodgkin Huxley model
 
 The Hodgkin–Huxley model, or conductance-based model, is a mathematical model that describes
